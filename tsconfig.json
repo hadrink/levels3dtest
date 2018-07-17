@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "jsx": "preserve", /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */
+        "lib": ["es5", "es2015", "dom", "scripthost"]
+    }
+}
